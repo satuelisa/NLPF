@@ -3,9 +3,10 @@ Natural Language Processing Fundamentals
 
 # Tools and libraries
 
-For each library, the parenthesis indicates the sessions that employ the package
+For each library that requires installation, the parenthesis indicates the sessions that employ the package. 
 
 1. [Python](https://www.python.org/)
+* nltk (S1)
 * numpy (S1)
 * pandas (S1) 
 * matplotlib (S1)
@@ -17,7 +18,7 @@ For each library, the parenthesis indicates the sessions that employ the package
 * quanteda (S1)
 * quanteda.textplot (S1)
 
-You can either run things on an online environment like Google Colab or install both of these open-source tools on your own computer.
+You can either run things on an online environment like Google Colab or install both of these open-source tools on your own computer. Note that some installable packages come pre-installed for the Colab Python environment (like *pandas* and *numpy*) but need to be installed with `pip` if you set up your own environment.
 
 # Bibliography
 
