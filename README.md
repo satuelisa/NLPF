@@ -6,6 +6,8 @@ Natural Language Processing Fundamentals
 - [Python](https://www.python.org/)
 - [R](https://www.r-project.org/)
 
+You can either run things on an online environment like Google Colab or install both of these open-source tools on your own computer.
+
 # Bibliography
 
 ![R](https://learning.oreilly.com/covers/urn:orm:book:9781491981641/200w/) | ![Python](https://learning.oreilly.com/covers/urn:orm:book:9780596803346/200w/)
