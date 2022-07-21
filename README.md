@@ -1,10 +1,21 @@
 # NLPF
 Natural Language Processing Fundamentals
 
-# Tools
+# Tools and libraries
 
-- [Python](https://www.python.org/)
-- [R](https://www.r-project.org/)
+For each library, the parenthesis indicates the sessions that employ the package
+
+1. [Python](https://www.python.org/)
+* numpy (S1)
+* pandas (S1) 
+* matplotlib (S1)
+* gutenbergpy (S1)
+2. [R](https://www.r-project.org/)
+* gutenbergr (S1)
+* tidytext (S1)
+* ggplot2 (S1)
+* quanteda (S1)
+* quanteda.textplot (S1)
 
 You can either run things on an online environment like Google Colab or install both of these open-source tools on your own computer.
 
