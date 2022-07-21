@@ -1,12 +1,18 @@
 # NLPF
 Natural Language Processing Fundamentals
 
-# Bibliography
-
 # Tools
 
 - [Python](https://www.python.org/)
 - [R](https://www.r-project.org/)
+
+# Bibliography
+
+![R](https://learning.oreilly.com/covers/urn:orm:book:9781491981641/200w/) | ![Python](https://learning.oreilly.com/covers/urn:orm:book:9780596803346/200w/)
+:------------------:|:------------------:
+[Text Mining with R](https://learning.oreilly.com/library/view/text-mining-with/9781491981641/) | [NLP with Python](https://learning.oreilly.com/library/view/natural-language-processing/9780596803346/)
+
+
 
 # Data sets
 
