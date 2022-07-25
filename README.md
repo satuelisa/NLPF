@@ -6,14 +6,15 @@
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_P.ipynb)
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_R.ipynb)
 3. `tf-idf` and topic modeling (R)
-4. RNNs for tagging and classification (Python) 
-5. Language models and word networks (R) 
-6. Parsing, syntax, and meaning (Python)
-7. Word embeddings and transformers; intrinsic and extrinsic evaluations (Python)
-8. Sentiment analysis (R)
-9. Correction, prediction, and chatbots (Python)
-10. Multilingual NLP and speech-to-text conversion (Python)
-11. Applications of NLP 
+4. - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_02_R.ipynb)
+5. RNNs for tagging and classification (Python) 
+6. Language models and word networks (R) 
+7. Parsing, syntax, and meaning (Python)
+8. Word embeddings and transformers; intrinsic and extrinsic evaluations (Python)
+9. Sentiment analysis (R)
+10. Correction, prediction, and chatbots (Python)
+11. Multilingual NLP and speech-to-text conversion (Python)
+12. Applications of NLP 
 
 ## Tools and libraries
 
@@ -34,6 +35,11 @@ For each library that requires installation, the parenthesis indicates the sessi
 * `quanteda` (S1)
 * `quanteda.textplot` (S1)
 * `tm` (S2)
+* `reshape` (S2) 
+* `reshape2` (S2) 
+* `topicmodels` (S2)
+* `wordcloud` (S2)
+* `RColorBrewer` (S2)
 
 You can either run things on an online environment like Google Colab or install both of these open-source tools on your own computer. Note that some installable packages come pre-installed for the Colab Python environment (like *pandas* and *numpy*) but need to be installed with `pip` if you set up your own environment.
 
