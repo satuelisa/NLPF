@@ -1,7 +1,19 @@
-# NLPF
-Natural Language Processing Fundamentals
+# Natural Language Processing Fundamentals
 
-# Tools and libraries
+## Sessions
+
+1. Fundamental concepts (R & Python)
+2. Topic modelling (R)
+3. RNNs for tagging and classification (Python) 
+4. Language models and word networks (R) 
+5. Parsing, syntax, and meaning (Python)
+6. Word embeddings and transformers; intrinsic and extrinsic evaluations (Python)
+7. Sentiment analysis (R)
+8. Correction, prediction, and chatbots (Python)
+9. Multilingual NLP and speech-to-text conversion (Python)
+10. Applications of NLP 
+
+## Tools and libraries
 
 For each library that requires installation, the parenthesis indicates the sessions that employ the package. 
 
@@ -22,7 +34,7 @@ For each library that requires installation, the parenthesis indicates the sessi
 
 You can either run things on an online environment like Google Colab or install both of these open-source tools on your own computer. Note that some installable packages come pre-installed for the Colab Python environment (like *pandas* and *numpy*) but need to be installed with `pip` if you set up your own environment.
 
-# Bibliography
+## Bibliography
 
 ![R](https://learning.oreilly.com/covers/urn:orm:book:9781491981641/200w/) | ![Python](https://learning.oreilly.com/covers/urn:orm:book:9780596803346/200w/)
 :------------------:|:------------------:
