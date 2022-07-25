@@ -2,16 +2,18 @@
 
 ## Sessions
 
-1. Fundamental concepts (R & Python)
-2. Topic modelling (R)
-3. RNNs for tagging and classification (Python) 
-4. Language models and word networks (R) 
-5. Parsing, syntax, and meaning (Python)
-6. Word embeddings and transformers; intrinsic and extrinsic evaluations (Python)
-7. Sentiment analysis (R)
-8. Correction, prediction, and chatbots (Python)
-9. Multilingual NLP and speech-to-text conversion (Python)
-10. Applications of NLP 
+1. Fundamental concepts (Python & R)
+   - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_P.ipynb)
+   - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_R.ipynb)
+3. Topic modelling (R)
+4. RNNs for tagging and classification (Python) 
+5. Language models and word networks (R) 
+6. Parsing, syntax, and meaning (Python)
+7. Word embeddings and transformers; intrinsic and extrinsic evaluations (Python)
+8. Sentiment analysis (R)
+9. Correction, prediction, and chatbots (Python)
+10. Multilingual NLP and speech-to-text conversion (Python)
+11. Applications of NLP 
 
 ## Tools and libraries
 
