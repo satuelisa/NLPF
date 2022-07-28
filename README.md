@@ -20,7 +20,7 @@
 
 For each library that requires installation, the parenthesis indicates the sessions that employ the package. 
 
-1. [Python](https://www.python.org/)
+1. [Python](https://www.python.org/) &mdash; [Create a new Colab in Python](https://colab.research.google.com/notebook#create=true&language=r)
 * `gutenbergpy` (S1)
 * `nltk` (S1)
 * `wordcloud` (S1)
@@ -28,7 +28,7 @@ For each library that requires installation, the parenthesis indicates the sessi
 * `numpy` (S1)
 * `pandas` (S1) 
 
-2. [R](https://www.r-project.org/)
+2. [R](https://www.r-project.org/) &mdash; [Create a new Colab in R](https://colab.research.google.com/notebook#create=true&language=r)
 * `gutenbergr` (S1)
 * `tidytext` (S1)
 * `ggplot2` (S1)
