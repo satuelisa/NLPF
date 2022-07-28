@@ -5,16 +5,17 @@
 1. Fundamental concepts (Python & R)
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_P.ipynb)
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_R.ipynb)
-3. `tf-idf` and topic modeling (R)
-4. - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_02_R.ipynb)
-5. RNNs for tagging and classification (Python) 
-6. Language models and word networks (R) 
-7. Parsing, syntax, and meaning (Python)
-8. Word embeddings and transformers; intrinsic and extrinsic evaluations (Python)
-9. Sentiment analysis (R)
-10. Correction, prediction, and chatbots (Python)
-11. Multilingual NLP and speech-to-text conversion (Python)
-12. Applications of NLP 
+2. `tf-idf` and topic modeling (R)
+   - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_02_R.ipynb)
+3. Sentiment analysis (R)
+   - [R examples])https://github.com/satuelisa/NLPF/blob/main/NLPF_03_R.ipynb)
+4. RNNs for tagging and classification (Python) 
+5. Language models and word networks (R) 
+6. Parsing, syntax, and meaning (Python)
+7. Word embeddings and transformers; intrinsic and extrinsic evaluations (Python)
+8. Correction, prediction, and chatbots (Python)
+9. Multilingual NLP and speech-to-text conversion (Python)
+10. Applications of NLP 
 
 ## Tools and libraries
 
