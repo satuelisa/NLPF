@@ -12,11 +12,11 @@
 4. Tagging (Python) 
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_P.ipynb)
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_R.ipynb)
-5. Language models and word networks (R) 
-6. Parsing, syntax, and meaning (Python)
-7. Word embeddings (Python)
-8. Correction, prediction, and chatbots (Python)
-9. Multilingual NLP and speech-to-text conversion (Python)
+5. Language Models & Word Networks (R) 
+6. Parsing, Syntax & Meaning (Python)
+7. Word Embeddings (Python)
+8. Correction, Prediction & Chatbots (Python)
+9. Multilingual NLP & Speech-to-Text (Python)
 10. Applications of NLP 
 
 ## Tools and libraries
