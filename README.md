@@ -2,14 +2,14 @@
 
 ## Sessions
 
-1. Fundamental Concepts (Python & R)
+1. Fundamental Concepts
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_P.ipynb)
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_R.ipynb)
-2. `tf-idf` & Topic Modeling (R)
+2. `tf-idf` & Topic Modeling
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_02_R.ipynb)
-3. Sentiment Analysis (R)
+3. Sentiment Analysis
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_03_R.ipynb)
-4. Tagging (Python) 
+4. Tagging
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_P.ipynb)
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_R.ipynb)
 5. Language Models & Word Networks (R) 
