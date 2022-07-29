@@ -2,17 +2,18 @@
 
 ## Sessions
 
-1. Fundamental concepts (Python & R)
+1. Fundamental Concepts (Python & R)
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_P.ipynb)
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_R.ipynb)
-2. `tf-idf` and topic modeling (R)
+2. `tf-idf` & Topic Modeling (R)
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_02_R.ipynb)
-3. Sentiment analysis (R)
-   - [R examples])https://github.com/satuelisa/NLPF/blob/main/NLPF_03_R.ipynb)
-4. RNNs for tagging and classification (Python) 
+3. Sentiment Analysis (R)
+   - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_03_R.ipynb)
+4. Tagging & Classification (Python) 
+   - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_P.ipynb)
 5. Language models and word networks (R) 
 6. Parsing, syntax, and meaning (Python)
-7. Word embeddings and transformers; intrinsic and extrinsic evaluations (Python)
+7. Word embeddings (Python)
 8. Correction, prediction, and chatbots (Python)
 9. Multilingual NLP and speech-to-text conversion (Python)
 10. Applications of NLP 
@@ -21,7 +22,7 @@
 
 For each library that requires installation, the parenthesis indicates the sessions that employ the package. 
 
-1. [Python](https://www.python.org/) &mdash; [Create a new Colab in Python](https://colab.research.google.com/notebook#create=true&language=r)
+a. [Python](https://www.python.org/) &mdash; [Create a new Colab in Python](https://colab.research.google.com/notebook#create=true&language=r)
 * `gutenbergpy` (S1)
 * `nltk` (S1)
 * `wordcloud` (S1)
@@ -29,7 +30,7 @@ For each library that requires installation, the parenthesis indicates the sessi
 * `numpy` (S1)
 * `pandas` (S1) 
 
-2. [R](https://www.r-project.org/) &mdash; [Create a new Colab in R](https://colab.research.google.com/notebook#create=true&language=r)
+b. [R](https://www.r-project.org/) &mdash; [Create a new Colab in R](https://colab.research.google.com/notebook#create=true&language=r)
 * `gutenbergr` (S1)
 * `tidytext` (S1)
 * `ggplot2` (S1)
@@ -74,3 +75,5 @@ You can either run things on an online environment like Google Colab or install 
 ## Session 3: Sentiment Analysis
 - *lexicon* = a set of words, a vocabulary
 - *unigram* = a unit of language that is a single word
+
+## Session 4: Tagging & Classification
