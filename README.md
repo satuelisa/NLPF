@@ -9,8 +9,9 @@
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_02_R.ipynb)
 3. Sentiment Analysis (R)
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_03_R.ipynb)
-4. Tagging & Classification (Python) 
+4. Tagging (Python) 
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_P.ipynb)
+   - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_R.ipynb)
 5. Language models and word networks (R) 
 6. Parsing, syntax, and meaning (Python)
 7. Word embeddings (Python)
@@ -77,3 +78,6 @@ You can either run things on an online environment like Google Colab or install 
 - *unigram* = a unit of language that is a single word
 
 ## Session 4: Tagging & Classification
+- *part of speech* (POS) = *lexical category* = *word class* = the "grammar classes" of words such as nouns, adverbs, verbs, adjectives, etc.
+- *bigram* = a two-word sequence
+- *n-gram* = a sequence of *n* words
