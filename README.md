@@ -17,7 +17,7 @@
 6. PLanguage Models (Python)
 7. Word Embeddings (Python)
 8. Correction, Prediction & Chatbots (Python)
-9. Multilingual NLP & Speech-to-Text (Python)
+9. Speech-to-Text (Python)
 10. Applications of NLP 
 
 ## Tools and libraries
@@ -60,7 +60,7 @@ You can either run things on an online environment like Google Colab or install 
 # Data sets
 
 - [Project Gutenberg](https://www.gutenberg.org/ebooks/): the raw text of numerous books
-- [Wordnets in the World](http://globalwordnet.org/resources/wordnets-in-the-world/): `WordNet` like graphs in other languages
+- [Open Multilingual Wordnet](http://compling.hss.ntu.edu.sg/omw/): `WordNet` data in other languages
 
 # Concepts
 
@@ -81,12 +81,12 @@ You can either run things on an online environment like Google Colab or install 
 - *lexicon* = a set of words, a vocabulary
 - *unigram* = a unit of language that is a single word
 
-## Session 4: Tagging & Classification
+## Session 4: Tagging 
 - *part of speech* (POS) = *lexical category* = *word class* = the "grammar classes" of words such as nouns, adverbs, verbs, adjectives, etc.
 - *bigram* = a two-word sequence
 - *n-gram* = a sequence of *n* words
 
-# Session 5: 
+## Session 5: Word Networks
 - `WordNet` = a graph-format thesaurus of relationships between English words
 - *hyponym* = a more **specific** synonym of a word
 - *hypernum* = a more **general** synonym of a word
