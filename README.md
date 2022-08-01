@@ -12,8 +12,9 @@
 4. Tagging
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_P.ipynb)
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_R.ipynb)
-5. Language Models & Word Networks (R) 
-6. Parsing, Syntax & Meaning (Python)
+5. Word Networks (Python) 
+   - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_05_P.ipynb)
+6. PLanguage Models (Python)
 7. Word Embeddings (Python)
 8. Correction, Prediction & Chatbots (Python)
 9. Multilingual NLP & Speech-to-Text (Python)
@@ -23,7 +24,7 @@
 
 For each library that requires installation, the parenthesis indicates the sessions that employ the package. 
 
-a. [Python](https://www.python.org/) &mdash; [Create a new Colab in Python](https://colab.research.google.com/notebook#create=true&language=r)
+a. [Python](https://www.python.org/) &mdash; [Create a new Colab in Python](https://colab.research.google.com/notebook#create=true)
 * `gutenbergpy` (S1)
 * `nltk` (S1)
 * `wordcloud` (S1)
@@ -59,6 +60,7 @@ You can either run things on an online environment like Google Colab or install 
 # Data sets
 
 - [Project Gutenberg](https://www.gutenberg.org/ebooks/): the raw text of numerous books
+- [Wordnets in the World](http://globalwordnet.org/resources/wordnets-in-the-world/): `WordNet` like graphs in other languages
 
 # Concepts
 
@@ -83,3 +85,11 @@ You can either run things on an online environment like Google Colab or install 
 - *part of speech* (POS) = *lexical category* = *word class* = the "grammar classes" of words such as nouns, adverbs, verbs, adjectives, etc.
 - *bigram* = a two-word sequence
 - *n-gram* = a sequence of *n* words
+
+# Session 5: 
+- `WordNet` = a graph-format thesaurus of relationships between English words
+- *hyponym* = a more **specific** synonym of a word
+- *hypernum* = a more **general** synonym of a word
+- *meronym* = component of a concept
+- *holonym* = container of a concept
+- *antonym* = the counterpart of a word (the contrary version: vertical/horizontal, positive/negative)
