@@ -14,11 +14,11 @@
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_R.ipynb)
 5. Word Networks (Python) 
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_05_P.ipynb)
-6. PLanguage Models (Python)
-7. Word Embeddings (Python)
-8. Correction, Prediction & Chatbots (Python)
+6. Classification (Python)
+7. Language Models (Python)
+8. Word Embeddings (Python)
 9. Speech-to-Text (Python)
-10. Applications of NLP 
+10. Applications of NLP: Correction, Prediction & Chatbots 
 
 ## Tools and libraries
 
