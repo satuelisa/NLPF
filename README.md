@@ -12,13 +12,14 @@
 4. Tagging
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_P.ipynb)
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_04_R.ipynb)
-5. Word Networks (Python) 
+5. Word Networks 
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_05_P.ipynb)
-6. Classification (Python)
-7. Language Models (Python)
-8. Word Embeddings (Python)
+6. Correction & Prediction
+   - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_06_P.ipynb)
+7. Word Embeddings (Python)
+8. Chatbots (Python)
 9. Speech-to-Text (Python)
-10. Applications of NLP: Correction, Prediction & Chatbots 
+10. Applications of NLP
 
 ## Tools and libraries
 
@@ -47,7 +48,6 @@ b. [R](https://www.r-project.org/) &mdash; [Create a new Colab in R](https://col
 * `textdata` (S3)
 * `reshape2 (S3)
 * `igraph` (S4)
-* 
 
 You can either run things on an online environment like Google Colab or install both of these open-source tools on your own computer. Note that some installable packages come pre-installed for the Colab Python environment (like *pandas* and *numpy*) but need to be installed with `pip` if you set up your own environment.
 
@@ -56,6 +56,9 @@ You can either run things on an online environment like Google Colab or install 
 ![R](https://learning.oreilly.com/covers/urn:orm:book:9781491981641/200w/) | ![Python](https://learning.oreilly.com/covers/urn:orm:book:9780596803346/200w/)
 :------------------:|:------------------:
 [Text Mining with R](https://learning.oreilly.com/library/view/text-mining-with/9781491981641/) | [NLP with Python](https://learning.oreilly.com/library/view/natural-language-processing/9780596803346/)
+
+Additionally, for some sessions, we use the online version of the following textbooks:
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) referred to as SLP in myCourses
 
 # Data sets
 
@@ -93,3 +96,6 @@ You can either run things on an online environment like Google Colab or install 
 - *meronym* = component of a concept
 - *holonym* = container of a concept
 - *antonym* = the counterpart of a word (the contrary version: vertical/horizontal, positive/negative)
+
+## Session 6: Correction & Completion
+- *edit distance* = the total cost of alterations that need to be made on a string to convert it into another one
