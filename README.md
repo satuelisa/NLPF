@@ -16,10 +16,11 @@
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_05_P.ipynb)
 6. Correction & Prediction
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_06_P.ipynb)
-7. Word Embeddings (Python)
-8. Chatbots (Python)
-9. Speech-to-Text (Python)
-10. Applications of NLP
+7. Stemming 
+   - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_07_P.ipynb)
+8. Word Embeddings
+9. Chatbots
+10. Speech-to-Text 
 
 ## Tools and libraries
 
@@ -58,7 +59,8 @@ You can either run things on an online environment like Google Colab or install 
 [Text Mining with R](https://learning.oreilly.com/library/view/text-mining-with/9781491981641/) | [NLP with Python](https://learning.oreilly.com/library/view/natural-language-processing/9780596803346/)
 
 Additionally, for some sessions, we use the online version of the following textbooks:
-- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) referred to as SLP in myCourses
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) referred to as SLP
+- [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) referred to as SMLTAR
 
 # Data sets
 
@@ -99,3 +101,14 @@ Additionally, for some sessions, we use the online version of the following text
 
 ## Session 6: Correction & Completion
 - *edit distance* = the total cost of alterations that need to be made on a string to convert it into another one
+
+## Session 7: Stemming
+- *stemming* = removal of affixes (suffixes, mostly; sometimes prefixes) to cut down all variants of a word to their "common core"
+- *normalization* = a process of regularizing text in some way, such as making all of it lowercase
+- *lemmatization* = taking each (conjugated, plural, capitalized, ...) word into the form in which it would appear in a dictionary
+
+## Session 8: Word Embeddings
+
+## Session 9: Chatbots
+
+## Session 10: Speech-to-Text
