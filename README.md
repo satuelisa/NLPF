@@ -19,11 +19,11 @@
 7. Stemming 
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_07_P.ipynb)
 8. Word Embeddings
-  - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_08_R.ipynb)
+   - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_08_R.ipynb)
 9. Chatbots
-  - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_09_P.ipynb)
+   - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_09_P.ipynb)
 10. Speech-to-Text 
-  - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_10_P.ipynb)
+   - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_10_P.ipynb)
 
 ## Tools and libraries
 
