@@ -19,8 +19,11 @@
 7. Stemming 
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_07_P.ipynb)
 8. Word Embeddings
+  - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_08_R.ipynb)
 9. Chatbots
+  - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_09_P.ipynb)
 10. Speech-to-Text 
+  - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_10_P.ipynb)
 
 ## Tools and libraries
 
@@ -47,8 +50,11 @@ b. [R](https://www.r-project.org/) &mdash; [Create a new Colab in R](https://col
 * `wordcloud` (S2)
 * `RColorBrewer` (S2)
 * `textdata` (S3)
-* `reshape2 (S3)
+* `reshape2` (S3)
 * `igraph` (S4)
+* `stopwords` (S8)
+* `plot.matrix` (S8)
+* `proxy` (S8)
 
 You can either run things on an online environment like Google Colab or install both of these open-source tools on your own computer. Note that some installable packages come pre-installed for the Colab Python environment (like *pandas* and *numpy*) but need to be installed with `pip` if you set up your own environment.
 
@@ -58,7 +64,7 @@ You can either run things on an online environment like Google Colab or install 
 :------------------:|:------------------:
 [Text Mining with R](https://learning.oreilly.com/library/view/text-mining-with/9781491981641/) | [NLP with Python](https://learning.oreilly.com/library/view/natural-language-processing/9780596803346/)
 
-Additionally, for some sessions, we use the online version of the following textbooks:
+Additionally to the above books available through the library, we use the freely available online versions of the following textbooks:
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) referred to as SLP
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) referred to as SMLTAR
 
@@ -107,7 +113,13 @@ Additionally, for some sessions, we use the online version of the following text
 - *normalization* = a process of regularizing text in some way, such as making all of it lowercase
 - *lemmatization* = taking each (conjugated, plural, capitalized, ...) word into the form in which it would appear in a dictionary
 
-## Session 8: Word Embeddings
+## Session 8: Vectorization
+- *cosine similarity* = the dot product of two numerical vectors divided by the product of their norms
+- *PMI* = pointwise mutual information, a measure to quantify how often do two words appear together than what one would expect if they were ordered at random
+- *word embedding* = a vectorization of a text that attempts to capture semantics based on word context
+- *skipgram window* = a token subsequence of a determined length
+- *skipgram probability* = the probability (relative frequency) of two tokens appearing together in a skipgram window
+
 
 ## Session 9: Chatbots
 
