@@ -57,6 +57,8 @@ b. [R](https://www.r-project.org/) &mdash; [Create a new Colab in R](https://col
 * `proxy` (S8)
 * `word2vec` (S8)
 * `plot3D` (S8)
+* `NbClust` (S8)
+* `factoextra` (S8)
 
 You can either run things on an online environment like Google Colab or install both of these open-source tools on your own computer. Note that some installable packages come pre-installed for the Colab Python environment (like *pandas* and *numpy*) but need to be installed with `pip` if you set up your own environment.
 
