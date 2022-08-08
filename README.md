@@ -5,7 +5,7 @@
 1. Fundamental Concepts
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_P.ipynb)
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_01_R.ipynb)
-2. `tf-idf` & Topic Modeling
+2. Topic Detection
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_02_R.ipynb)
 3. Sentiment Analysis
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_03_R.ipynb)
