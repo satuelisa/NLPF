@@ -23,8 +23,7 @@
 9. Chatbots
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_09_P.ipynb)
 10. Speech
-   - test
-   - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_10_P.ipynb)
+    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_10_P.ipynb)
 
 ## Tools and libraries
 
@@ -126,5 +125,6 @@ Additionally to the above books available through the library, we use the freely
 - *reflection* = a word pair in which one serves as a response to the other in the sense that if the point of view of the speaker is reversed, the substitution maintains consistency ("this is my dog", "your dog is cute")
 - *rule-based chatbot* = one that picks a response to an incoming message based on a set of rules, often expressed in terms of regular expressions
 - *self-learning chatbot* = one that uses machine learning to determine responses
+- *bag of words* = representing a part of text (sentence, document, etc.) as the set of words it contains (or a binary representation thereof)
 
 ## Session 10: Speech
