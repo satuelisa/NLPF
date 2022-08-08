@@ -18,7 +18,7 @@
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_06_P.ipynb)
 7. Stemming 
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_07_P.ipynb)
-8. Word Embeddings
+8. Vectorization
    - [R examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_08_R.ipynb)
 9. Chatbots
    - [Python examples](https://github.com/satuelisa/NLPF/blob/main/NLPF_09_P.ipynb)
@@ -55,6 +55,8 @@ b. [R](https://www.r-project.org/) &mdash; [Create a new Colab in R](https://col
 * `stopwords` (S8)
 * `plot.matrix` (S8)
 * `proxy` (S8)
+* `word2vec` (S8)
+* `plot3D` (S8)
 
 You can either run things on an online environment like Google Colab or install both of these open-source tools on your own computer. Note that some installable packages come pre-installed for the Colab Python environment (like *pandas* and *numpy*) but need to be installed with `pip` if you set up your own environment.
 
@@ -116,10 +118,12 @@ Additionally to the above books available through the library, we use the freely
 ## Session 8: Vectorization
 - *cosine similarity* = the dot product of two numerical vectors divided by the product of their norms
 - *PMI* = pointwise mutual information, a measure to quantify how often do two words appear together than what one would expect if they were ordered at random
-- *word embedding* = a vectorization of a text that attempts to capture semantics based on word context
+- *lemma* = the "dictionary form" of a word
+- *wordform* = the specific variant of a word, such as the conjugated form, that may not be a lemma as such
+- *polysemous* = having more than one meaning
+- *(word) embedding* = a vectorization of a text that attempts to capture semantics based on word context, such as `word2vec`
 - *skipgram window* = a token subsequence of a determined length
 - *skipgram probability* = the probability (relative frequency) of two tokens appearing together in a skipgram window
-
 
 ## Session 9: Chatbots
 - *reflection* = a word pair in which one serves as a response to the other in the sense that if the point of view of the speaker is reversed, the substitution maintains consistency ("this is my dog", "your dog is cute")
