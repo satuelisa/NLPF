@@ -84,7 +84,7 @@ Additionally to the above books available through the library, we use the freely
 - *stopword* = a word the presence of which is deemed meaningless in a given context
 - *term-document matrix* = a matrix in which each row represents a document and each column represents a term, with the cells indicating the frequency of occurrence of each term in each document
 
-## Session 2: `tf-idf` & Topic Detection
+## Session 2: Topic Detection
 - *tf-idf* = term-frequency versus inverse-document-frequency matrix that assigns higher weight for terms that are not frequent across *all* of the documents; the *idf* is the natural logarithm of the fraction of total number of documents divided by the number of documents that contain a term
 - LDA = Latent Dirichlet Allocation, a topic-modeling algorithm: represent a **document** as a mixture of *topics* and a *topic* as a mixture of **words**
 
@@ -105,7 +105,7 @@ Additionally to the above books available through the library, we use the freely
 - *holonym* = container of a concept
 - *antonym* = the counterpart of a word (the contrary version: vertical/horizontal, positive/negative)
 
-## Session 6: Correction & Completion
+## Session 6: Correction & Prediction
 - *edit distance* = the total cost of alterations that need to be made on a string to convert it into another one
 
 ## Session 7: Stemming
