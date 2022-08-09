@@ -77,10 +77,14 @@ Additionally to the above books available through the library, we use the freely
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) referred to as SLP
 - [Supervised Machine Learning for Text Analysis in R](https://smltar.com/) referred to as SMLTAR
 
-# Data sets
+## Data sets
 
 - [Project Gutenberg](https://www.gutenberg.org/ebooks/): the raw text of numerous books
 - [Open Multilingual Wordnet](http://compling.hss.ntu.edu.sg/omw/): `WordNet` data in other languages
+
+# Assignments
+
+The contents of each assignment is detailed on myCourses and also as a single file on [Overleaf](https://www.overleaf.com/read/dgwcbnnzjjbz) for easier access so you can prepare your responses offline.
 
 # Concepts
 
