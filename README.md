@@ -65,7 +65,11 @@ b. [R](https://www.r-project.org/) &mdash; [Create a new Colab in R](https://col
 * `NbClust` (S08)
 * `factoextra` (S08)
 
-You can either run things on an online environment like Google Colab or install both of these open-source tools on your own computer. Note that some installable packages come pre-installed for the Colab Python environment (like *pandas* and *numpy*) but need to be installed with `pip` if you set up your own environment.
+You can either run things on an online environment like Google Colab
+or install both of these open-source tools on your own computer. Note
+that some installable packages come pre-installed for the Colab Python
+environment (like *pandas* and *numpy*) but need to be installed with
+`pip` if you set up your own environment.
 
 ## Bibliography
 
@@ -145,3 +149,12 @@ The contents of each assignment is detailed on myCourses and also as a single fi
 ## Session 10: Speech
 - *text to speech* = have the computer read out loud a text given as input
 - *speech to text* = have the computer create a string from a recording (live or file) of spoken language
+
+
+## Other NLP Courses at McGIll
+
+- [COMP 345/LING 345](https://docs.google.com/document/d/1PnWEGzfTYB_MB_g35tHWGvozAeME7puURoOT3JVj53c/edit)
+- [COMP 445/LING 445](https://www.cs.mcgill.ca/media/academic/courses/118_COMP_445.pdf)
+- [COMP 550](https://www.cs.mcgill.ca/~jcheung/teaching/fall-2017/comp550/#lectures)
+- [COMP 599/LING 484](https://mcgill-nlp.github.io/teaching/comp599-ling782-484-f22/)
+- [Quantitative analysis](http://people.linguistics.mcgill.ca/~morgan/qmld-book/)
